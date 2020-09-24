@@ -1,3 +1,3 @@
 # Network-Security
 
-Implementations of various encryption algorithms related to Network Security
+Various Encryption Algorithms implemented in python.
